@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Adds text to the left path to describe comedic heroic sword use
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
